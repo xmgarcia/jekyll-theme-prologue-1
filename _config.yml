@@ -36,7 +36,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Site oficial do Estoril Atletico Clube.
 author: EAC Design
 email: geral@estorilac.pt
-avatar: assets/images/original_avatar.png
+avatar: assets/images/original_avatar_100.png
 
 # You'll want to customize url and baseurl for your own site:
 baseurl: "/jekyll-theme-prologue-1" # the subpath of your site, e.g. /blog
