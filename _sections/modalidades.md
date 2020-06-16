@@ -1,7 +1,7 @@
 ---
 title: Modalidades
 layout: "page"
-icon: fa-book
+icon: fa-running
 order: 4
 ---
 
