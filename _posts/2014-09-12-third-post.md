@@ -1,5 +1,5 @@
 ---
-title: Third Post
+title: 3ª Notícia
 author: Chris
 layout: post
 icon: fa-lightbulb

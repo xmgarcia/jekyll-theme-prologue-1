@@ -1,5 +1,5 @@
 ---
-title: First Post
+title: 1ª Notícia
 author: Chris
 layout: post
 ---
