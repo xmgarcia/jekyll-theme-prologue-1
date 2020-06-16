@@ -1,7 +1,7 @@
 ---
 title: Modalidades
 layout: "page"
-icon: fa-running
+icon: fa-futbol
 order: 4
 ---
 

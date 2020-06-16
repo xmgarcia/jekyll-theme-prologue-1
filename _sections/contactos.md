@@ -1,7 +1,7 @@
 ---
 title: Contactos
 layout: "page"
-icon: fa-address-book
+icon: fa-mobile-alt
 order: 5
 ---
 
