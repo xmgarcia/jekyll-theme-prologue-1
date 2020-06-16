@@ -2,7 +2,7 @@
 title: Modalidades
 layout: "page"
 icon: fa-book
-order: 1
+order: 4
 ---
 
 Estas são as modalidades que oferecemos aos nossos associados
