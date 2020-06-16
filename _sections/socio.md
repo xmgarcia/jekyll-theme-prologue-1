@@ -5,6 +5,8 @@ icon: fa-address-card
 order: 3
 ---
 
-Para se tornar sócio do Estoril AC basta preencher o seguinte [formulário](https://form.jotform.com/201647895780367)
-
-A joia para novos associados são apenas 2,5€ e a quota mensal mínima é 1€.
+Para se tornar sócio do Estoril AC basta preencher o
+<br><br>
+<a target="_blank" href="https://form.jotform.com/201647895780367" class="button scrolly">Formulário de adesão</a>
+<br><br>
+A joia para novos associados é de 2,5€ e a quota mensal mínima de apenas 1€.
