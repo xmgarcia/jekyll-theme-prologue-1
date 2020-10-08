@@ -31,7 +31,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Estoril Atlético Clube
-subtitle: Futebol e Setas
+subtitle:
 description: >- # this means to ignore newlines until "baseurl:"
   Site oficial do Estoril Atletico Clube.
 author: EAC Design
