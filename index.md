@@ -6,4 +6,5 @@ layout: home
 title: O Clube
 icon: fa-home
 order: 1
+hide: true
 ---
