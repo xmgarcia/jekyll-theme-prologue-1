@@ -3,6 +3,7 @@ title: Modalidades
 layout: "page"
 icon: fa-futbol
 order: 4
+hide: true
 ---
 
 Estas são as modalidades que oferecemos aos nossos associados
